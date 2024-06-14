@@ -73,15 +73,39 @@ In our commitment to supporting comprehensive deepfake detection research, we pr
 
 ## 💡 Evaluation
 
-### 1. Environment Setting
+### 1. Installation
 
 ```
 git clone https://github.com/DSAIL-SKKU/HiDF.git
-cd HiDF
+cd HiDF/Code/AVAD
+```
+Install the requirements file:
+```
 pip install -r requirements.txt
 ```
 
+### 2. Inference
 
+Steps to run the python code directly:
+```
+python detect_implementation_code.py --input_dir /SampleData/HiDF/Fake --output_dir ./save
+```
+You can download checkpoint `sync_model.pth` from [here](https://drive.google.com/file/d/1BxaPiZmpiOJDsbbq8ZIDHJU7--RJE7Br/view) and place it in the folder where the code resides.
+
+`input_dir` should contain the path to the directory of evaluation data, and `output_dir` should contain the path to the `save` folder created in the `./AVAD` directory.
+
+In the end, there would be `{evaluation data}_{Real/Fake}_score.csv' file under output_dir generated to record scores for all the testing videos.
+
+### 3. Performance evaluation
+
+Finally, you can evaluate performance by running the following command:
+```
+python APnAUC.py
+
+# Average Precision (AP): 0.xxxx
+# Area Under the Curve (AUC): 0.xxxx
+```
+If there are multiple CSV files in the `save` folder, you need to specify which Real and Fake you want within the `APnAUC.py` script.
 <br>
 
 ## 💡 Request for $HiDF$
