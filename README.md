@@ -106,7 +106,7 @@ python APnAUC.py
 ```
 If there are multiple CSV files in the `save` folder, you need to specify which Real and Fake you want within the `APnAUC.py` script.
 
-__
+___
 ### Acknowledgments
 
 Our code is borrowed from [AVAD](https://github.com/cfeng16/audio-visual-forensics). Thanks for their sharing codes and models.
