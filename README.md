@@ -22,7 +22,7 @@ $HiDF$ is a high-quality, **human-indistinguishable deepfake dataset** comprisin
 |     KoDF    |    62,166    |    175,776    |    237,942    |           403         |        Video (w/ audio)      |    X    |     Q     |
 | FakeAVCeleb |     500      |    19,500     |     20,000    |           500         |        Video (w/ audio)      |    X    |    N/A    |
 |     DFGC    |    2,019     |     3,270     |     5,289     |           40          |        Video (w/ audio)      |    O    |    N/A    |
-|   **HiDF**  |  **34,491**  |  **34,491**   |   **68,982**  |  **6,127 + &alpha;**  |  **Image, Video (w/ audio)** |  **O**  |  **QQ**   |
+|   **HiDF**  |  **35,611**  |  **35,611**   |   **71,222**  |  **6,127 + &alpha;**  |  **Image, Video (w/ audio)** |  **O**  |  **QQ**   |
 
 Quantitative comparison of HiDF and existing deepfake datasets. Real, Fake, and Total for HiDF represent the combined count of images and videos. Tool indicates whether commercial tools were used for generating the deepfake data, and Quality denotes whether a quality assessment of the dataset was performed. Q: Quantitative (using evaluation metrics such as FID, PSNR, SSIM) only, QQ: Both Quantitative and Qualitative (including pilot studies such as human surveys), N/A: Not applicable.
 
