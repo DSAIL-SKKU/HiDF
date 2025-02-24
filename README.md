@@ -8,7 +8,7 @@
 
 <br>
 
-$HiDF$ is a high-quality, **human-indistinguishable deepfake dataset** comprising 30K images and 4K videos, curated to include diverse subjects and undergo rigorous quality checks. It addresses the limitations of existing datasets by providing more realistic and undetectable deepfakes. This makes HiDF an invaluable benchmark for advancing deepfake detection research, with data and code publicly available for future studies. You can find HiDF's deepfake images and videos in the **_samples_** folder. It includes 100 deepfake images and 10 deepfake videos. For access to the entire dataset, please refer to [Request for HiDF](https://github.com/DSAIL-SKKU/HiDF/blob/main/README.md#-request-for-hidf) below.
+$HiDF$ is a high-quality, **human-indistinguishable deepfake dataset** comprising 30K images and 4K videos, curated to include diverse subjects and undergo rigorous quality checks. It addresses the limitations of existing datasets by providing more realistic and undetectable deepfakes. This makes HiDF an invaluable benchmark for advancing deepfake detection research, with data and code publicly available for future studies. You can find HiDF's deepfake images and videos in the **_samples_** folder. It includes 100 deepfake images and 10 deepfake videos. For access to the entire dataset, please refer to [Request for HiDF](https://github.com/DSAIL-SKKU/HiDF#-request-for-hidf) below.
 
 <br>
 
@@ -115,13 +115,14 @@ Our code is borrowed from [AVAD](https://github.com/cfeng16/audio-visual-forensi
 
 ## 💡 Request for $HiDF$
 
+(The paper "HiDF: A Human-Indistinguishable Deepfake Dataset" is currently under review. The dataset will be released upon publication.)
 To access the HiDF dataset, please complete the form below. We collect minimal information to verify the identity of dataset users to prevent misuse of HiDF; this information will not be used for any other purposes. The HiDF dataset is available under the [Creative Commons Attribution-NonCommercial 4.0 International Public License](https://creativecommons.org/licenses/by-nc/4.0/). Any violation of this license agreement may result in legal action. To gain access to HiDF, complete the form and email it to codnjs3@g.skku.edu, preferably using your institutional or company email address. By submitting the form, the user agrees to the terms of the CC BY-NC 4.0 license. If you are still waiting to receive feedback within 7 days, please contact jsyoon0503@g.sku.edu.
 
 * Name : 
 * Lab / Department / Affiliation :
 * Principal Investigator/Advisor's Name :
 * Principal Investigator/Advisor's Email Address :
-* Short description of research purpose or project description :
+* Description of research purpose or project description :
 
 <br>
 
