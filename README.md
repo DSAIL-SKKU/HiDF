@@ -13,6 +13,16 @@ $HiDF$ is a high-quality, **human-indistinguishable deepfake dataset** comprisin
 <br>
 
 
+## 💡 News
+
+* **[05/16/2025] Our paper on the HiDF dataset has been accepted to KDD 2025 (Datasets & Benchmarks Track)!**
+  - With this acceptance, the dataset is now officially available for research use.
+  - Please refer to the [Request for HiDF](https://github.com/DSAIL-SKKU/HiDF#-request-for-hidf) section below for access instructions.
+  - 📌 The DOI and citation information will be updated here once officially available.
+
+<br>
+
+
 ## 💡 Quantitative comparison of HiDF and existing deepfake datasets
 
 |   Dataset   |    # Real    |    # Fake     |    # Total    |       # Subject       |            DType             |   Tool  |  Quality  |
@@ -115,7 +125,6 @@ Our code is borrowed from [AVAD](https://github.com/cfeng16/audio-visual-forensi
 
 ## 💡 Request for $HiDF$
 
-(The paper "HiDF: A Human-Indistinguishable Deepfake Dataset" is currently under review. The dataset will be released upon publication.)
 To access the HiDF dataset, please complete the form below. We collect minimal information to verify the identity of dataset users to prevent misuse of HiDF; this information will not be used for any other purposes. The HiDF dataset is available under the [Creative Commons Attribution-NonCommercial 4.0 International Public License](https://creativecommons.org/licenses/by-nc/4.0/). Any violation of this license agreement may result in legal action. To gain access to HiDF, complete the form and email it to codnjs3@g.skku.edu, preferably using your institutional or company email address. By submitting the form, the user agrees to the terms of the CC BY-NC 4.0 license. If you are still waiting to receive feedback within 7 days, please contact jsyoon0503@g.sku.edu.
 
 * Name : 
