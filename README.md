@@ -125,13 +125,10 @@ Our code is borrowed from [AVAD](https://github.com/cfeng16/audio-visual-forensi
 
 ## 💡 Request for $HiDF$
 
-To access the HiDF dataset, please complete the form below. We collect minimal information to verify the identity of dataset users to prevent misuse of HiDF; this information will not be used for any other purposes. The HiDF dataset is available under the [Creative Commons Attribution-NonCommercial 4.0 International Public License](https://creativecommons.org/licenses/by-nc/4.0/). Any violation of this license agreement may result in legal action. To gain access to HiDF, complete the form and email it to codnjs3@g.skku.edu, preferably using your institutional or company email address. By submitting the form, the user agrees to the terms of the CC BY-NC 4.0 license. If you are still waiting to receive feedback within 7 days, please contact jsyoon0503@g.sku.edu.
+To access the HiDF dataset, please visit the following link.
+* https://zenodo.org/records/16140829
 
-* Name : 
-* Lab / Department / Affiliation :
-* Principal Investigator/Advisor's Name :
-* Principal Investigator/Advisor's Email Address :
-* Description of research purpose or project description :
+The HiDF dataset is available under the [Creative Commons Attribution-NonCommercial 4.0 International Public License](https://creativecommons.org/licenses/by-nc/4.0/). Any violation of this license agreement may result in legal action. By downloading the HiDF, the user agrees to the terms of the CC BY-NC 4.0 license.
 
 <br>
 
