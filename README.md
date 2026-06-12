@@ -19,6 +19,7 @@ $HiDF$ is a high-quality, **human-indistinguishable deepfake dataset** comprisin
   - With this acceptance, the dataset is now officially available for research use.
   - Please refer to the [Request for HiDF](https://github.com/DSAIL-SKKU/HiDF#-request-for-hidf) section below for access instructions.
   - Presentation video: [https://youtu.be/PLVaHbYCnNg?si=Ztpwpcg1IKLkI310](https://youtu.be/PLVaHbYCnNg?si=Ztpwpcg1IKLkI310)
+  - 📍DOI: https://doi.org/10.1145/3711896.3737399
 
 <br>
 
